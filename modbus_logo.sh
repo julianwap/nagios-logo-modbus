@@ -48,7 +48,7 @@ Options:
 
 Examples:
   $script_name 10.0.0.11 AM2
-  $script_name logo_hostname Q3 --write 1
+  $script_name logo_hostname Q3 --set 1
   $script_name /dev/ttyS0 I2 --args \"-m rtu -R\"
 "; exit 3;
 }
