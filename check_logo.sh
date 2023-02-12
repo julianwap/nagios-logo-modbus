@@ -1,4 +1,5 @@
 #!/bin/bash
+cd "${0%/*}"
 
 # made by JWA
 version="0.1 20230211"
